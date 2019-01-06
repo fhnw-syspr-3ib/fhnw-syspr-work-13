@@ -3,7 +3,7 @@
 Für Slides und Code Beispiele, siehe [Lektion 13](../../../fhnw-syspr/blob/master/13/README.md)
 
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
-> *[Prüfen Sie die vorhandenen Forks, um das Repository für Ihre Klasse zu finden.](../../network/members)*
+> *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/FQNsOMc-).*
 
 ### a) Kalender-Zeit, 15'
 * Lesen Sie das folgenden [TLPI](http://man7.org/tlpi/) Beispiel Programm:<pre>
